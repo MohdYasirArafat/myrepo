@@ -1,11 +1,15 @@
 #include<iostream>
 using namespace std;
  
- void bubblesort(){
+void bubblesort(){
     //
- }
+}
 
 void quicksort(){
+    //
+}
+
+void mergesort(){
     //
 }
 
